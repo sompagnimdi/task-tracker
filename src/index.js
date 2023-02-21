@@ -9,3 +9,5 @@ const index = () => {
 }
 
 export default index;
+
+// to be removed

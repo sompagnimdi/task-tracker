@@ -12,3 +12,5 @@ function App() {
 //adding stuff to be removed later
 
 export default App
+
+// to be removed

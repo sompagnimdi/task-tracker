@@ -23,3 +23,4 @@ Header.PropTypes = {
 }
 
 export default Header
+// to be removed
