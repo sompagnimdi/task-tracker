@@ -21,6 +21,5 @@ Header.defaultProps = {
 Header.PropTypes = {
     title: PropTypes.string.isRequired,
 }
-
+// adding stuff to delete later
 export default Header
-// to be removed

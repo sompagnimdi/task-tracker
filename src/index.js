@@ -8,6 +8,5 @@ const index = () => {
   )
 }
 
+//adding stuff to be removed later
 export default index;
-
-// to be removed

@@ -63,6 +63,7 @@ font-family: 'Poppins', sans-serif;
     border-left: 5px solid green;
 }
 
+/* event should be changed */
 .event h3 {
     display: flex;
     align-items: center;
